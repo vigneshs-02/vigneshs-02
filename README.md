@@ -6,7 +6,7 @@ Actively practicing problem-solving and preparing for developer roles.
 ## Skills
 - Java (Core Java, OOP, Collections – Basics)
 - JavaScript (Basics, DOM manipulation)
-- HTML, CSS
+- HTML, CSS, JavaScript
 - React (Fundamentals)
 - Git & GitHub
 
